@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+:root {
+  --wc-margin: 5px;
+  --wc-padding: 0 10px;
+  --wc-border: 1px solid black;
+}
