@@ -12,6 +12,7 @@
     "@polymer/polymer": "3.2.0",
     "@vue/web-component-wrapper": "1.2.0",
     "@webcomponents/webcomponentsjs": "2.2.8",
+    "lit-element": "2.1.0",
     "vue": "2.6.10"
   },
   "devDependencies": {
