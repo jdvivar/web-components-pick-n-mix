@@ -1,5 +1,6 @@
-import { LitElement, html, css } from "lit-element";
+import { LitElement, html, css, customElement } from "lit-element";
 
+@customElement("lit-wc")
 export class LitWC extends LitElement {
   static get styles() {
     return css`
@@ -21,5 +22,3 @@ export class LitWC extends LitElement {
     `;
   }
 }
-
-customElements.define("lit-wc", LitWC);
